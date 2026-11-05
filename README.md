@@ -75,9 +75,24 @@ A professional collection of technical implementations, educational resources, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fznghfry&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="100%" />
+### BUILDING • LEARNING • INNOVATING
+
+**A continuous journey in technology and software development.**
 
 </div>
+
+---
+
+### CONTRIBUTION & DEVELOPMENT
+
+My GitHub repositories showcase ongoing work in:
+
+- Computer Networking & Infrastructure
+- Software Development
+- Arduino & Internet of Things
+- Technology Education
+
+
 
 ---
 
