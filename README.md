@@ -73,7 +73,11 @@ A professional collection of technical implementations, educational resources, a
 
 ## GITHUB ACTIVITY
 
-<img src="https://github-readme-stats.vercel.app/api?username=fznghfry&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8" width="100%" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fznghfry&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="100%" />
+
+</div>
 
 ---
 
